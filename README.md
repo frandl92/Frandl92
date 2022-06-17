@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Fran 👋</h1>
-<div align="center"><img width="250px" src="https://tenor.com/view/banner-gif-25870804" /></div>
+<div align="center"><img width="250px" src="https://c.tenor.com/S7fBzpUYjoAAAAAd/banner.gif" /></div>
 <h1 align="center">Future Full Stack Developer.</h1>
 <h2 align="center">My interests: Sports, Politics and recently Programing</h2>
 
